@@ -1,0 +1,10 @@
+
+/dev/IC7300		IC7300	
+
+/dev/IC7851A		IC7851
+/dev/IC7851B
+
+/dev/IC9700A		IC9700
+/dev/IC9700B
+
+/dev/ttyACM0		MCHF
